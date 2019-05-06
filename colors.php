@@ -1,1 +1,1 @@
-Negro
+Blanco
